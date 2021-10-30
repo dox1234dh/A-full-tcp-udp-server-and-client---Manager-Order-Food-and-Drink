@@ -41,6 +41,6 @@ In this project, I have 4 small project:
   
   DAO: This project contain all model using in project
   
-  Thanks to my Teacher, Manh Hung Nguyen, Ph.D to inspire and teach me to complete this project.
+  Thanks to my Teacher, Manh Hung Nguyen, Ph.D inspires and teaches me to complete this project.
   
   You can go this: https://softwaredesign.home.blog/tutorials/ for more information about my project.
